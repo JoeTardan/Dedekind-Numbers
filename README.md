@@ -5,13 +5,11 @@ And achieve the immortal fame of the OEIS.
 
 https://oeis.org/A000372
 
-Full Open Source code on:
-https://oeis.org/A000372/a000372.c.txt
-
 Acknowledgments:
 I must give the well-deserved credit to the computer builder  "InfoGerman Computers".
 Perhaps the best computer builder in the world.
 
 www.infoherman.com
+
 
 --------------------------------------------------------------------------------------------
